@@ -2457,3 +2457,4 @@ export default function App() {
     </div>
   );
 }
+Cambio eliminar apartados de las promociones indivuduales a que aparezcan todas de las que tienen promociones en pizza cuando el usuario le pica a la pizza 
