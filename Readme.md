@@ -164,3 +164,5 @@ Always branch off `develop`, open a PR back into `develop`, then merge `develop 
 ## License
 
 Private — all rights reserved.
+
+Cambio eliminar apartados de las promociones indivuduales a que aparezcan todas de las que tienen promociones en pizza cuando el usuario le pica a la pizza 
