@@ -5,3 +5,11 @@ dist/
 .env.*.local
 .DS_Store
 *.log
+.vercel
+
+# Capacitor native build artifacts
+ios/App/Pods/
+ios/App/App.xcworkspace/xcuserdata/
+android/.gradle/
+android/build/
+android/app/build/
