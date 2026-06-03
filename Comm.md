@@ -8,8 +8,7 @@ centrar todo (login page)
 
 color primario dorado
 
-agregar emojis pizzas
+agregar emojis 🍳 🍔 🌮 🍣 🥩 🥞 🍕 🍜 🍰 🍪
 
 inclinado
 
-🟤
